@@ -1,0 +1,7 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\thomb\OneDrive\Documents\Scala\intelliJIdeaProjects\FunctionalProgrammingInScala_2\target\scala-2.13\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	MyModule$.class
+[debug] 	MyModule.class
+[debug] Removing the temporary directory used for backing up class files: C:\Users\thomb\OneDrive\Documents\Scala\intelliJIdeaProjects\FunctionalProgrammingInScala_2\target\scala-2.13\classes.bak
